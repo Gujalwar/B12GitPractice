@@ -4,6 +4,7 @@ public class LoginFunctionalityTest {
         System.out.println("Enter username");
         System.out.println("enter password");
         System.out.println("verify login page");
+        System.out.println("Please click on forgot password");
 
     }
 }
