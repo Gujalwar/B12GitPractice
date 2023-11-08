@@ -5,5 +5,6 @@ public class Test1 {
 
         System.out.println("This is test1");
         System.out.println("Extra Test");
+        System.out.println("Test2");
     }
 }
